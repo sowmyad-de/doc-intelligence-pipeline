@@ -1,0 +1,9 @@
+streamlit
+plotly
+pandas
+snowflake-connector-python
+python-dotenv
+anthropic
+pydantic
+pdfplumber
+reportlab
