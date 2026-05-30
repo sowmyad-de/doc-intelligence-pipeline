@@ -1,0 +1,32 @@
+# Secrets - NEVER upload these
+.env
+*.key
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated data
+data/raw_pdfs/*.pdf
+data/extracted_json/*.json
+
+# Mac system files
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Streamlit
+.streamlit/secrets.toml
+# Secrets and credentials
+.env
+.env.local
+*.pem
+*.key
+
