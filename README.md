@@ -3,6 +3,10 @@
 
 End-to-end data engineering pipeline that ingests unstructured healthcare claim PDFs, extracts structured data using Anthropic's Claude API, lands it in Snowflake using Medallion architecture (Bronze / Silver / Gold), and serves analytics through a Streamlit dashboard.
 
+
+![Dashboard Screenshot](docs/dashboard.png)
+
+
 ## Architecture
 
 ```
